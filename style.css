@@ -1,23 +1,28 @@
-
 .list-group {
-list-style: none;
+  list-style: none;
 
-border: none;
-margin-top: 14px;
-
+  border: none;
+  margin-top: 14px;
 }
 
-#headline {
-    margin-top:16.25rem;
-   justify-content: center;
-    
-}
 .see-project {
-    width: 130px;
+  width: 130px;
 }
 /* .card {
     border: none;
 } */
 .list-group-item {
-    border: none;
+  border: none;
+}
+
+#headline {
+  justify-content: center;
+  background-image: url('images/headerimg.png');
+  height: 40em;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: center center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
