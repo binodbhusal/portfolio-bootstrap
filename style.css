@@ -1,0 +1,23 @@
+
+.list-group {
+list-style: none;
+
+border: none;
+margin-top: 14px;
+
+}
+
+#headline {
+    margin-top:16.25rem;
+   justify-content: center;
+    
+}
+.see-project {
+    width: 130px;
+}
+/* .card {
+    border: none;
+} */
+.list-group-item {
+    border: none;
+}
