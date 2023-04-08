@@ -3,6 +3,9 @@
 
 body {
   font-family: "Poppins", sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 .list-group {
   list-style: none;
@@ -25,6 +28,9 @@ body {
   border-radius: 3rem 0 0 3rem;
 }
 .brs1{
+  border-radius: 0 3rem 3rem 0;
+}
+.brs2 {
   border-radius: 0 3rem 3rem 0;
 }
 .headline {
